@@ -1,2 +1,4 @@
 # UI-Demo
-Flipkart pixel-perfect responsive clone using HTML, CSS &amp; Bootstrap
+
+> **Note**
+> Do not forget to connect to internet for better experience
